@@ -44,3 +44,7 @@ htmlcov/
 # Logs
 *.log
 logs/
+
+# Temporary files
+temp.py
+*.backup
